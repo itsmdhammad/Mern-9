@@ -3,7 +3,7 @@ const f0=()=> {
 }
 
 const f1=()=> {
-    console.log("My First Function");
+    console.log("My new function is this");
 }
 
 const f2=()=> {
