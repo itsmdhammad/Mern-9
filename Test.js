@@ -2,17 +2,12 @@ const f0=()=> {
     console.log("Even-Odd Number");
 }
 
-
-const ff=()=> {
-    console.log("Factorial Function");
-}
-
 const f1=()=> {
-    console.log("My second");
+    console.log("My new function is this");
 }
 
 const f2=()=> {
-    console.log("My First Function");
+    console.log("My F2 Function");
 }
 
 const myname=()=> {
