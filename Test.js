@@ -8,7 +8,7 @@ const ff=()=> {
 }
 
 const f1=()=> {
-    console.log("My First Function");
+    console.log("My second");
 }
 
 const f2=()=> {
