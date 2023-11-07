@@ -1,4 +1,4 @@
-const f0=()=> {
+const ff=()=> {
     console.log("Factorial Function");
 }
 
