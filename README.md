@@ -32,3 +32,9 @@
 > git merge branchName: Merge a child branch into a parent branch. We can't merge a parent into a child branch. Sometimes conflicts arise, we need to solve it by selecting a given option in Vs Code.
 
 > git stash: Temporary save our changes into a stack for later use.
+
+# Some Other Concepts
+
+- Pull Request
+- Git Clone
+- detached head
