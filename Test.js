@@ -14,3 +14,12 @@ const f1=()=> {
 const f2=()=> {
     console.log("My First Function");
 }
+
+const myname=()=> {
+    console.log("My Name is M Hammad");
+}; 
+
+
+const fname=()=> {
+    console.log("My First Name is Muhammad");
+}; 
