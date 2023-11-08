@@ -3,7 +3,7 @@ const f0=()=> {
 }
 
 const f1=()=> {
-    console.log("F1 is a random Function");
+    console.log("Changing this fucntion for conflict");
 }
 
 const f2=()=> {
