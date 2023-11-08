@@ -3,7 +3,7 @@ const f0=()=> {
 }
 
 const f1=()=> {
-    console.log("My new function is this");
+    console.log("F1 is a random Function");
 }
 
 const f2=()=> {
