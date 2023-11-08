@@ -18,3 +18,7 @@ const myname=()=> {
 const fname=()=> {
     console.log("My First Name is Muhammad");
 }; 
+const f3=()=> {
+    console.log("F3 Function");
+}
+
