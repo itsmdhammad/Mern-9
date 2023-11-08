@@ -3,6 +3,6 @@ const ff=()=> {
 }
 
 const f1=()=> {
-    console.log("My second");
+    console.log("Changing this fucntion for conflict");
 }
 
